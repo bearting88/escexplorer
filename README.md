@@ -1,6 +1,6 @@
 # ESCExplorer 
 
-<b>Live Version: [etherhub.io](https://escexplorer.io)</b>
+<b>Live Version: [escexplorer.io](https://escexplorer.io)</b>
 
 Follow the project progress at: [ESC Block Explorer Development]() 
 
