@@ -1,14 +1,14 @@
-# ETCExplorer 
+# ESCExplorer 
 
-<b>Live Version: [etherhub.io](http://etherhub.io)</b>
+<b>Live Version: [etherhub.io](https://escexplorer.io)</b>
 
-Follow the project progress at: [ETC Block Explorer Development](https://trello.com/b/W3ftl57z/etc-block-explorer-development) 
+Follow the project progress at: [ESC Block Explorer Development]() 
 
 ## Local installation
 
 Clone the repo
 
-`git clone https://github.com/ethereumproject/explorer`
+`git clone https://github.com/bearting88/escexplorer`
 
 Download [Nodejs and npm](https://docs.npmjs.com/getting-started/installing-node "Nodejs install") if you don't have them
 
@@ -31,8 +31,8 @@ Configuration file: `/tools/config.json`
 Basic settings:
 ```json
 {
-    "gethPort": 8545, 
-    "blocks": [ {"start": 2000000, "end": "latest"}],
+    "gethPort": 9545, 
+    "blocks": [ {"start": 0, "end": "latest"}],
     "quiet": false,
     "terminateAtExistingDB": true,
     "listenOnly": false
